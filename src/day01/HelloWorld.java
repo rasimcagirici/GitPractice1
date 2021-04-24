@@ -5,5 +5,6 @@ public class HelloWorld {
         System.out.println("Hello World");
         System.out.println("Adding GitHub now");
         System.out.println("YAY STUFFS ARE ON GITHUB");
+        System.out.println("You can only pushed if you have a commit that hasn't been pushed");
     }
 }
